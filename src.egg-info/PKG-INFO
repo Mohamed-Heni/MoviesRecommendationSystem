@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/Mohamed-Heni/Movie-Recommender-System-Using-Machine-Learning-I-Have-No-Idea-About-What-Am-I-Doing)
+Author: Mohamed-Heni
+Author-email: entbappy73@gmail.com
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown

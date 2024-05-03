@@ -1,0 +1,3 @@
+Create a Virtul E(VSCode):
+conda --prefix ./env python==3.11.5 -y
+The setup.py need a file name README.md to work u will encounter the error when you try this code "pip install -r requirements.txt" i gusse it's trying to install som shit that needed
